@@ -16,9 +16,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chtourouahm&theme=onedark&row=2&column=3" alt="chtourouahm" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **deep learning | Transformers**
 
-- 🌱 I’m currently learning **mlops**
+- 🌱 I’m currently learning about  **mlops**
 
 - 👯 I’m looking to collaborate on **deep learning and mlops projects**
 
