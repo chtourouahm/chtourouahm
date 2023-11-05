@@ -25,7 +25,7 @@
 
 - 💬 Open  to learn about  about **quantum computing ⚛️**
 
-- 📫 How to reach me **[![Linkedin Badge](https://www.linkedin.com/in/ahmed-chtourou-933b43222/)](https://www.linkedin.com/in/ahmed-chtourou-933b43222/)**
+- 📫 How to reach me **[![Linkedin Badge](https://www.linkedin.com/in/ahmed-chtourou-933b43222/)] (https://www.linkedin.com/in/ahmed-chtourou-933b43222/)**
 
 - ⚡ Fun fact **if you water water it grows**
 
