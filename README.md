@@ -1,4 +1,3 @@
-
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
   </p>
@@ -10,18 +9,18 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/not-lain?color=green&logo=github)
+![](https://img.shields.io/github/followers/chtourouahm?color=green&logo=github)
 ![](https://komarev.com/ghpvc/?username=not-lain)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=not-lain&theme=onedark&row=2&column=3" alt="not-lain" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chtourouahm&theme=onedark&row=2&column=3" alt="chtourouahm" /></a> </p>
 </div>
 
 - 🔭 I’m currently working on **deep learning | Transformers**
 
 - 🌱 I’m currently learning **mlops**
 
-- 👯 I’m looking to collaborate on **deep learning and mlops projects **
+- 👯 I’m looking to collaborate on **deep learning and mlops projects**
 
 - 🤝 I’m looking for help with **building a mlops projects**
 
