@@ -10,7 +10,7 @@
 <div align="center">
 
 ![](https://img.shields.io/github/followers/chtourouahm?color=green&logo=github)
-![](https://komarev.com/ghpvc/?username=not-lain)
+![](https://komarev.com/ghpvc/?username=chtourouahm)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chtourouahm&theme=onedark&row=2&column=3" alt="chtourouahm" /></a> </p>
