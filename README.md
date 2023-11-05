@@ -19,15 +19,15 @@
 
 - 🔭 I’m currently working on **deep learning | Transformers**
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **mlops**
 
-- 👯 I’m looking to collaborate on **deep learning projects**
+- 👯 I’m looking to collaborate on **deep learning and mlops projects **
 
-- 🤝 I’m looking for help with **building a transformer using pytorch**
+- 🤝 I’m looking for help with **building a mlops projects**
 
-- 💬 Ask me about **quantum computing ⚛️**
+- 💬 Open  to learn about  about **quantum computing ⚛️**
 
-- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@not_so_lain-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/not_so_lain)](https://twitter.com/not_so_lain)**
+- 📫 How to reach me **[![Linkedin Badge](https://www.linkedin.com/in/ahmed-chtourou-933b43222/)]**
 
 - ⚡ Fun fact **if you water water it grows**
 
