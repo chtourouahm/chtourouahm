@@ -45,17 +45,15 @@
 
 <br/>
 
-[![lain's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-lain&show_icons=true&theme=react)](https://github.com/not-lain)
+[![Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=chtourouahm&show_icons=true&theme=react)](https://github.com/chtourouahm)
 
 
 <br/>
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-lain&theme=react&border=61dafb&hide_border=true" alt="not-lain" />
 
 <br/>
 
 
-[![lain's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-lain&theme=github-compact&hide_border=true)](https://github.com/not-lain)
 
 <br/>
 
